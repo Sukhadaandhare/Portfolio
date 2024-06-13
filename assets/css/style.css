@@ -8,15 +8,6 @@
  */
 
 
-.about-text a{
-	border:1px outset;
-	padding:10px;
-	border-radius:5px
-	color:yellow;
-}
-.about-text a:hover{
-	color:blue;
-}
 
 
 /*-----------------------------------*\
@@ -119,6 +110,15 @@
 
 }
 
+.about-text a{
+	border:1px outset gray;
+	padding:10px;
+	border-radius:5px
+	color:yellow;
+}
+.about-text a:hover{
+	color:blue;
+}
 
 
 
