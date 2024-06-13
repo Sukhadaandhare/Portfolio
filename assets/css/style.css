@@ -113,11 +113,11 @@
 .about-text a{
 	border:1px outset gray;
 	padding:10px;
-	border-radius:5px
-	color:yellow;
+	border-radius:5px;
+	
 }
 .about-text a:hover{
-	color:blue;
+	color:yellow;
 }
 
 
